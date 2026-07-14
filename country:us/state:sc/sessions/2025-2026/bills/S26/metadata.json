@@ -14,7 +14,11 @@
     }
   ],
   "other_titles": [],
-  "other_identifiers": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-sc-2025_2026-s26"
+    }
+  ],
   "actions": [
     {
       "description": "Prefiled",
@@ -75,6 +79,40 @@
       "related_entities": [],
       "_processing": {
         "log_file_created": "2025-11-27T08:44:10Z"
+      }
+    },
+    {
+      "description": "Read second time",
+      "date": "2026-02-03",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-2"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:06:42Z"
+      }
+    },
+    {
+      "description": "Roll call Ayes-24  Nays-19",
+      "date": "2026-02-03",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:06:42Z"
+      }
+    },
+    {
+      "description": "Recommitted to Committee on Fish, Game and Forestry",
+      "date": "2026-05-07",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:06:42Z"
       }
     }
   ],
@@ -144,6 +182,6 @@
     "division_id": "ocd-division/country:us/state:sc"
   },
   "_processing": {
-    "logs_latest_update": "2025-11-27T08:44:10Z"
+    "logs_latest_update": "2026-07-14T13:06:42Z"
   }
 }

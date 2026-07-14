@@ -14,7 +14,11 @@
     }
   ],
   "other_titles": [],
-  "other_identifiers": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-sc-2025_2026-s343"
+    }
+  ],
   "actions": [
     {
       "description": "Introduced and read first time",
@@ -39,6 +43,18 @@
       "related_entities": [],
       "_processing": {
         "log_file_created": "2025-11-27T08:44:10Z"
+      }
+    },
+    {
+      "description": "Committee report: Favorable with amendment Medical Affairs",
+      "date": "2026-02-19",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "committee-passage-favorable"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:06:44Z"
       }
     }
   ],
@@ -98,6 +114,14 @@
       "primary": true,
       "person_id": "~{\"chamber\": \"upper\", \"name\": \"Zell\"}",
       "organization_id": null
+    },
+    {
+      "name": "Kennedy",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"Kennedy\"}",
+      "organization_id": null
     }
   ],
   "related_bills": [],
@@ -107,6 +131,17 @@
       "links": [
         {
           "url": "https://www.scstatehouse.gov/sess126_2025-2026/prever/343_20250213.htm",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "02/19/2026",
+      "links": [
+        {
+          "url": "https://www.scstatehouse.gov/sess126_2025-2026/prever/343_20260219.htm",
           "media_type": "text/html"
         }
       ],
@@ -145,6 +180,6 @@
     "division_id": "ocd-division/country:us/state:sc"
   },
   "_processing": {
-    "logs_latest_update": "2025-11-27T08:44:10Z"
+    "logs_latest_update": "2026-07-14T13:06:44Z"
   }
 }

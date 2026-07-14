@@ -10,11 +10,15 @@
   "abstracts": [
     {
       "note": "description",
-      "abstract": "A BILL TO AMEND THE SOUTH CAROLINA CODE OF LAWS BY ADDING SECTION 40-33-31 SO AS TO REQUIRE HUMAN TRAFFICKING AWARENESS AND PREVENTION CONTINUING EDUCATION TRAINING FOR LICENSED PRACTICAL NURSES, REGISTERED NURSES, OR ADVANCED PRACTICE REGISTERED NURSES EXCLUDING CERTIFIED REGISTERED NURSE ANESTHETISTS; BY ADDING SECTION 40-47-39 SO AS TO REQUIRE HUMAN TRAFFICKING AWARENESS AND PREVENTION CONTINUING EDUCATION TRAINING FOR PHYSICIANS; AND BY ADDING SECTION 40-47-953 SO AS TO REQUIRE HUMAN TRAFFICKING AWARENESS AND PREVENTION CONTINUING EDUCATION TRAINING FOR PHYSICIAN ASSISTANTS."
+      "abstract": "AN ACT TO AMEND THE SOUTH CAROLINA CODE OF LAWS BY ADDING SECTION 40-33-31 SO AS TO REQUIRE CERTAIN HUMAN TRAFFICKING AWARENESS AND PREVENTION TRAINING FOR LICENSED PRACTICAL NURSES, REGISTERED NURSES, AND ADVANCED PRACTICE REGISTERED NURSES; BY ADDING SECTION 40-47-39 SO AS TO REQUIRE CERTAIN HUMAN TRAFFICKING AWARENESS AND PREVENTION TRAINING FOR PHYSICIANS WHO PRACTICE IN CERTAIN FIELDS AND CERTAIN SETTINGS; AND BY ADDING SECTION 40-47-953 SO AS TO REQUIRE CERTAIN HUMAN TRAFFICKING AWARENESS AND PREVENTION TRAINING FOR PHYSICIAN ASSISTANTS. - RATIFIED TITLE"
     }
   ],
   "other_titles": [],
-  "other_identifiers": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-sc-2025_2026-h4343"
+    }
+  ],
   "actions": [
     {
       "description": "Introduced and read first time",
@@ -143,6 +147,139 @@
       "related_entities": [],
       "_processing": {
         "log_file_created": "2025-11-27T08:44:07Z"
+      }
+    },
+    {
+      "description": "Committee report: Favorable with amendment Medical Affairs",
+      "date": "2026-02-19",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "committee-passage-favorable"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:06:43Z"
+      }
+    },
+    {
+      "description": "Committee Amendment Adopted",
+      "date": "2026-02-25",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "amendment-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:06:43Z"
+      }
+    },
+    {
+      "description": "Amended",
+      "date": "2026-02-25",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "amendment-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:06:43Z"
+      }
+    },
+    {
+      "description": "Read second time",
+      "date": "2026-02-25",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-2"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:06:43Z"
+      }
+    },
+    {
+      "description": "Roll call Ayes-42  Nays-0",
+      "date": "2026-02-25",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:06:43Z"
+      }
+    },
+    {
+      "description": "Read third time and returned to House with amendments",
+      "date": "2026-02-26",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "passage",
+        "reading-3"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:06:43Z"
+      }
+    },
+    {
+      "description": "Concurred in Senate amendment and enrolled",
+      "date": "2026-03-04",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:06:43Z"
+      }
+    },
+    {
+      "description": "Roll call Yeas-113  Nays-0",
+      "date": "2026-03-04",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:06:43Z"
+      }
+    },
+    {
+      "description": "Ratified R 111",
+      "date": "2026-03-05",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:06:43Z"
+      }
+    },
+    {
+      "description": "Signed By Governor",
+      "date": "2026-03-09",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "executive-signature"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:06:43Z"
+      }
+    },
+    {
+      "description": "Effective date 03/09/26",
+      "date": "2026-03-12",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:06:43Z"
+      }
+    },
+    {
+      "description": "Act No. 106",
+      "date": "2026-03-12",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:06:43Z"
       }
     }
   ],
@@ -371,6 +508,28 @@
       "classification": ""
     },
     {
+      "note": "02/19/2026",
+      "links": [
+        {
+          "url": "https://www.scstatehouse.gov/sess126_2025-2026/prever/4343_20260219.htm",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "02/25/2026",
+      "links": [
+        {
+          "url": "https://www.scstatehouse.gov/sess126_2025-2026/prever/4343_20260225.htm",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
       "note": "Filed",
       "links": [
         {
@@ -402,6 +561,6 @@
     "division_id": "ocd-division/country:us/state:sc"
   },
   "_processing": {
-    "logs_latest_update": "2025-11-27T08:44:07Z"
+    "logs_latest_update": "2026-07-14T13:06:43Z"
   }
 }

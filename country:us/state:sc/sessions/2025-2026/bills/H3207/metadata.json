@@ -14,7 +14,11 @@
     }
   ],
   "other_titles": [],
-  "other_identifiers": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-sc-2025_2026-h3207"
+    }
+  ],
   "actions": [
     {
       "description": "Prefiled",
@@ -64,6 +68,16 @@
       "_processing": {
         "log_file_created": "2025-11-27T08:44:09Z"
       }
+    },
+    {
+      "description": "Member(s) request name added as sponsor: Atkinson",
+      "date": "2026-04-21",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:06:43Z"
+      }
     }
   ],
   "sponsorships": [
@@ -81,6 +95,14 @@
       "entity_type": "person",
       "primary": true,
       "person_id": "~{\"chamber\": \"lower\", \"name\": \"McCravy\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Atkinson",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Atkinson\"}",
       "organization_id": null
     }
   ],
@@ -129,6 +151,6 @@
     "division_id": "ocd-division/country:us/state:sc"
   },
   "_processing": {
-    "logs_latest_update": "2025-11-27T08:44:10Z"
+    "logs_latest_update": "2026-07-14T13:06:44Z"
   }
 }

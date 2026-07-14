@@ -14,7 +14,11 @@
     }
   ],
   "other_titles": [],
-  "other_identifiers": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-sc-2025_2026-h3222"
+    }
+  ],
   "actions": [
     {
       "description": "Prefiled",
@@ -205,6 +209,58 @@
       "_processing": {
         "log_file_created": "2025-11-27T08:44:10Z"
       }
+    },
+    {
+      "description": "Debate adjourned",
+      "date": "2026-01-14",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:06:42Z"
+      }
+    },
+    {
+      "description": "Debate adjourned",
+      "date": "2026-01-20",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:06:42Z"
+      }
+    },
+    {
+      "description": "Debate adjourned",
+      "date": "2026-01-28",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:06:42Z"
+      }
+    },
+    {
+      "description": "Debate adjourned until Tues., 2-3-26",
+      "date": "2026-01-29",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:06:42Z"
+      }
+    },
+    {
+      "description": "Committed to Committee on Judiciary",
+      "date": "2026-02-03",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:06:42Z"
+      }
     }
   ],
   "sponsorships": [
@@ -303,6 +359,6 @@
     "division_id": "ocd-division/country:us/state:sc"
   },
   "_processing": {
-    "logs_latest_update": "2025-11-27T08:44:11Z"
+    "logs_latest_update": "2026-07-14T13:06:44Z"
   }
 }

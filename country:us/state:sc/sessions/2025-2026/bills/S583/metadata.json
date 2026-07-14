@@ -10,11 +10,15 @@
   "abstracts": [
     {
       "note": "description",
-      "abstract": "A BILL TO AMEND THE SOUTH CAROLINA CODE OF LAWS BY AMENDING SECTION 40-19-250, RELATING TO CONTINUING EDUCATION HOURS REQUIRED FOR LICENSEES OF THE BOARD OF FUNERAL EXAMINERS, SO AS TO REVISE PHYSICAL ATTENDANCE REQUIREMENTS FOR CONTINIUNG EDUCATION INSTRUCTION, AND TO DEFINE \"PHYSICAL ATTENDANCE.\""
+      "abstract": "AN ACT TO AMEND THE SOUTH CAROLINA CODE OF LAWS BY AMENDING SECTION 40-19-250, RELATING TO CONTINUING EDUCATION HOURS REQUIRED FOR LICENSEES OF THE BOARD OF FUNERAL EXAMINERS, SO AS TO REVISE PHYSICAL ATTENDANCE REQUIREMENTS FOR CONTINUING EDUCATION INSTRUCTION, TO PROVIDE AN EXCEPTION, AND TO DEFINE \"PHYSICAL ATTENDANCE.\" - RATIFIED TITLE"
     }
   ],
   "other_titles": [],
-  "other_identifiers": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-sc-2025_2026-s583"
+    }
+  ],
   "actions": [
     {
       "description": "Introduced and read first time",
@@ -112,6 +116,137 @@
       "_processing": {
         "log_file_created": "2025-11-27T08:44:10Z"
       }
+    },
+    {
+      "description": "Committee report: Favorable with amendment Labor, Commerce and Industry",
+      "date": "2026-02-19",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage-favorable"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:06:44Z"
+      }
+    },
+    {
+      "description": "Requests for debate-Rep(s). King, Govan, Howard, Grant, Luck, Hart, Williams",
+      "date": "2026-02-24",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:06:44Z"
+      }
+    },
+    {
+      "description": "Amended",
+      "date": "2026-02-25",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "amendment-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:06:44Z"
+      }
+    },
+    {
+      "description": "Read second time",
+      "date": "2026-02-25",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "reading-2"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:06:44Z"
+      }
+    },
+    {
+      "description": "Roll call Yeas-102  Nays-0",
+      "date": "2026-02-25",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:06:44Z"
+      }
+    },
+    {
+      "description": "Read third time and returned to Senate with amendments",
+      "date": "2026-03-03",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "passage",
+        "reading-3"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:06:44Z"
+      }
+    },
+    {
+      "description": "Concurred in House amendment and enrolled",
+      "date": "2026-03-25",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:06:44Z"
+      }
+    },
+    {
+      "description": "Roll call Ayes-43  Nays-0",
+      "date": "2026-03-25",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:06:44Z"
+      }
+    },
+    {
+      "description": "Ratified R 120",
+      "date": "2026-04-01",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:06:44Z"
+      }
+    },
+    {
+      "description": "Signed By Governor",
+      "date": "2026-04-06",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "executive-signature"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:06:44Z"
+      }
+    },
+    {
+      "description": "Effective date 07/01/26",
+      "date": "2026-04-23",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:06:44Z"
+      }
+    },
+    {
+      "description": "Act No. 112",
+      "date": "2026-04-23",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:06:44Z"
+      }
     }
   ],
   "sponsorships": [
@@ -165,6 +300,28 @@
       "classification": ""
     },
     {
+      "note": "02/19/2026",
+      "links": [
+        {
+          "url": "https://www.scstatehouse.gov/sess126_2025-2026/prever/583_20260219.htm",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "02/25/2026",
+      "links": [
+        {
+          "url": "https://www.scstatehouse.gov/sess126_2025-2026/prever/583_20260225.htm",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
       "note": "Filed",
       "links": [
         {
@@ -196,6 +353,6 @@
     "division_id": "ocd-division/country:us/state:sc"
   },
   "_processing": {
-    "logs_latest_update": "2025-11-27T08:44:10Z"
+    "logs_latest_update": "2026-07-14T13:06:44Z"
   }
 }

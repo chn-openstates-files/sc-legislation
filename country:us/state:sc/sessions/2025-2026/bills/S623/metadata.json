@@ -14,7 +14,11 @@
     }
   ],
   "other_titles": [],
-  "other_identifiers": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-sc-2025_2026-s623"
+    }
+  ],
   "actions": [
     {
       "description": "Introduced, read first time, placed on local & uncontested calendar",
@@ -175,6 +179,40 @@
       "_processing": {
         "log_file_created": "2025-11-27T08:44:10Z"
       }
+    },
+    {
+      "description": "Veto overridden by originating body Ayes-45  Nays-0",
+      "date": "2026-02-04",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "veto-override-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:06:43Z"
+      }
+    },
+    {
+      "description": "Veto overridden Yeas-105  Nays-0",
+      "date": "2026-02-10",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "veto-override-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:06:43Z"
+      }
+    },
+    {
+      "description": "Effective date 02/10/26",
+      "date": "2026-02-17",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:06:43Z"
+      }
     }
   ],
   "sponsorships": [
@@ -190,7 +228,7 @@
   "related_bills": [],
   "versions": [
     {
-      "note": "4/29/2025",
+      "note": "04/29/2025",
       "links": [
         {
           "url": "https://www.scstatehouse.gov/sess126_2025-2026/prever/623_20250429.htm",
@@ -201,7 +239,7 @@
       "classification": ""
     },
     {
-      "note": "4/29/2025-A",
+      "note": "04/29/2025-A",
       "links": [
         {
           "url": "https://www.scstatehouse.gov/sess126_2025-2026/prever/623_20250429a.htm",
@@ -212,7 +250,7 @@
       "classification": ""
     },
     {
-      "note": "5/7/2025",
+      "note": "05/07/2025",
       "links": [
         {
           "url": "https://www.scstatehouse.gov/sess126_2025-2026/prever/623_20250507.htm",
@@ -223,7 +261,7 @@
       "classification": ""
     },
     {
-      "note": "5/7/2025-A",
+      "note": "05/07/2025-A",
       "links": [
         {
           "url": "https://www.scstatehouse.gov/sess126_2025-2026/prever/623_20250507a.htm",
@@ -265,6 +303,6 @@
     "division_id": "ocd-division/country:us/state:sc"
   },
   "_processing": {
-    "logs_latest_update": "2025-11-27T08:44:10Z"
+    "logs_latest_update": "2026-07-14T13:06:43Z"
   }
 }

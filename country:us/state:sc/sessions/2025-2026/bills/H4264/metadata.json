@@ -14,7 +14,11 @@
     }
   ],
   "other_titles": [],
-  "other_identifiers": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-sc-2025_2026-h4264"
+    }
+  ],
   "actions": [
     {
       "description": "Introduced and read first time",
@@ -39,6 +43,16 @@
       "related_entities": [],
       "_processing": {
         "log_file_created": "2025-11-27T08:44:10Z"
+      }
+    },
+    {
+      "description": "Member(s) request name added as sponsor: Kilmartin, White",
+      "date": "2026-02-10",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:06:45Z"
       }
     }
   ],
@@ -274,6 +288,22 @@
       "primary": true,
       "person_id": "~{\"chamber\": \"lower\", \"name\": \"Willis\"}",
       "organization_id": null
+    },
+    {
+      "name": "Kilmartin",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Kilmartin\"}",
+      "organization_id": null
+    },
+    {
+      "name": "White",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"White\"}",
+      "organization_id": null
     }
   ],
   "related_bills": [],
@@ -321,6 +351,6 @@
     "division_id": "ocd-division/country:us/state:sc"
   },
   "_processing": {
-    "logs_latest_update": "2025-11-27T08:44:10Z"
+    "logs_latest_update": "2026-07-14T13:06:45Z"
   }
 }

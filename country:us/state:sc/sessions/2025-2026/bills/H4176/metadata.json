@@ -14,7 +14,11 @@
     }
   ],
   "other_titles": [],
-  "other_identifiers": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-sc-2025_2026-h4176"
+    }
+  ],
   "actions": [
     {
       "description": "Introduced and read first time",
@@ -132,6 +136,58 @@
       "_processing": {
         "log_file_created": "2025-11-27T08:44:08Z"
       }
+    },
+    {
+      "description": "Member(s) request name added as sponsor: Waters",
+      "date": "2026-01-15",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:06:42Z"
+      }
+    },
+    {
+      "description": "Member(s) request name added as sponsor: Williams",
+      "date": "2026-01-21",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:06:42Z"
+      }
+    },
+    {
+      "description": "Debate adjourned",
+      "date": "2026-01-21",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:06:42Z"
+      }
+    },
+    {
+      "description": "Member(s) request name removed as sponsor: Gatch",
+      "date": "2026-01-22",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:06:42Z"
+      }
+    },
+    {
+      "description": "Recommitted to Committee on Ways and Means",
+      "date": "2026-01-28",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:06:42Z"
+      }
     }
   ],
   "sponsorships": [
@@ -149,14 +205,6 @@
       "entity_type": "person",
       "primary": true,
       "person_id": "~{\"chamber\": \"lower\", \"name\": \"Brewer\"}",
-      "organization_id": null
-    },
-    {
-      "name": "Gatch",
-      "classification": "primary",
-      "entity_type": "person",
-      "primary": true,
-      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Gatch\"}",
       "organization_id": null
     },
     {
@@ -278,6 +326,22 @@
       "primary": true,
       "person_id": "~{\"chamber\": \"lower\", \"name\": \"Rivers\"}",
       "organization_id": null
+    },
+    {
+      "name": "Waters",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Waters\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Williams",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Williams\"}",
+      "organization_id": null
     }
   ],
   "related_bills": [],
@@ -347,6 +411,6 @@
     "division_id": "ocd-division/country:us/state:sc"
   },
   "_processing": {
-    "logs_latest_update": "2025-11-27T08:44:08Z"
+    "logs_latest_update": "2026-07-14T13:06:42Z"
   }
 }

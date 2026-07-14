@@ -14,7 +14,11 @@
     }
   ],
   "other_titles": [],
-  "other_identifiers": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-sc-2025_2026-h3857"
+    }
+  ],
   "actions": [
     {
       "description": "Introduced and read first time",
@@ -49,6 +53,16 @@
       "related_entities": [],
       "_processing": {
         "log_file_created": "2025-11-27T08:44:08Z"
+      }
+    },
+    {
+      "description": "Member(s) request name added as sponsor: Brewer",
+      "date": "2026-01-28",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:06:43Z"
       }
     }
   ],
@@ -238,11 +252,11 @@
       "organization_id": null
     },
     {
-      "name": "Mitchell",
+      "name": "C. Mitchell",
       "classification": "primary",
       "entity_type": "person",
       "primary": true,
-      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Mitchell\"}",
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"C. Mitchell\"}",
       "organization_id": null
     },
     {
@@ -444,6 +458,14 @@
       "primary": true,
       "person_id": "~{\"chamber\": \"lower\", \"name\": \"Schuessler\"}",
       "organization_id": null
+    },
+    {
+      "name": "Brewer",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Brewer\"}",
+      "organization_id": null
     }
   ],
   "related_bills": [],
@@ -491,6 +513,6 @@
     "division_id": "ocd-division/country:us/state:sc"
   },
   "_processing": {
-    "logs_latest_update": "2025-11-27T08:44:08Z"
+    "logs_latest_update": "2026-07-14T13:06:43Z"
   }
 }

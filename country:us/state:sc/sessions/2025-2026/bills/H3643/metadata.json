@@ -14,7 +14,11 @@
     }
   ],
   "other_titles": [],
-  "other_identifiers": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-sc-2025_2026-h3643"
+    }
+  ],
   "actions": [
     {
       "description": "Prefiled",
@@ -116,13 +120,13 @@
       }
     },
     {
-      "description": "Member(s) request name added as sponsor: T.Moore, Montgomery, Hardee, Wickensimer, Beach, White, Erickson, Bradley, Mitchell",
+      "description": "Member(s) request name added as sponsor: T.Moore, Montgomery, Hardee, Wickensimer, Beach, White, Erickson, Bradley, C.Mitchell",
       "date": "2025-02-04",
       "organization_id": "~{\"classification\": \"lower\"}",
       "classification": [],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2025-11-27T08:44:07Z"
+        "log_file_created": "2026-07-14T13:06:42Z"
       }
     },
     {
@@ -194,6 +198,56 @@
       "_processing": {
         "log_file_created": "2025-11-27T08:44:07Z"
       }
+    },
+    {
+      "description": "Member(s) request name removed as sponsor: Erickson, Bradley, Beach, Kilmartin, White",
+      "date": "2026-01-13",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:06:42Z"
+      }
+    },
+    {
+      "description": "Member(s) request name removed as sponsor: Terribile",
+      "date": "2026-01-15",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:06:42Z"
+      }
+    },
+    {
+      "description": "Member(s) request name removed as sponsor: Hartnett, C.Mitchell, Oremus, Hartz, Whitmire, Duncan, Haddon",
+      "date": "2026-01-20",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:06:42Z"
+      }
+    },
+    {
+      "description": "Member(s) request name removed as sponsor: Hager, Willis, Brittain, Pope, Holman, Ligon, Wooten, Bailey, Hardee, McGinnis, Bustos, Montgomery, T.Moore, Lawson, Long, Hixon, Schuessler, Forrest",
+      "date": "2026-01-21",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:06:42Z"
+      }
+    },
+    {
+      "description": "Member(s) request name removed as sponsor: J.E.Johnson",
+      "date": "2026-01-29",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:06:42Z"
+      }
     }
   ],
   "sponsorships": [
@@ -203,14 +257,6 @@
       "entity_type": "person",
       "primary": true,
       "person_id": "~{\"chamber\": \"lower\", \"name\": \"B. Newton\"}",
-      "organization_id": null
-    },
-    {
-      "name": "Pope",
-      "classification": "primary",
-      "entity_type": "person",
-      "primary": true,
-      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Pope\"}",
       "organization_id": null
     },
     {
@@ -262,51 +308,11 @@
       "organization_id": null
     },
     {
-      "name": "Kilmartin",
-      "classification": "primary",
-      "entity_type": "person",
-      "primary": true,
-      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Kilmartin\"}",
-      "organization_id": null
-    },
-    {
-      "name": "Long",
-      "classification": "primary",
-      "entity_type": "person",
-      "primary": true,
-      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Long\"}",
-      "organization_id": null
-    },
-    {
-      "name": "Lawson",
-      "classification": "primary",
-      "entity_type": "person",
-      "primary": true,
-      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Lawson\"}",
-      "organization_id": null
-    },
-    {
-      "name": "Hager",
-      "classification": "primary",
-      "entity_type": "person",
-      "primary": true,
-      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Hager\"}",
-      "organization_id": null
-    },
-    {
       "name": "Crawford",
       "classification": "primary",
       "entity_type": "person",
       "primary": true,
       "person_id": "~{\"chamber\": \"lower\", \"name\": \"Crawford\"}",
-      "organization_id": null
-    },
-    {
-      "name": "Bailey",
-      "classification": "primary",
-      "entity_type": "person",
-      "primary": true,
-      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Bailey\"}",
       "organization_id": null
     },
     {
@@ -318,35 +324,11 @@
       "organization_id": null
     },
     {
-      "name": "Hartnett",
-      "classification": "primary",
-      "entity_type": "person",
-      "primary": true,
-      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Hartnett\"}",
-      "organization_id": null
-    },
-    {
-      "name": "McGinnis",
-      "classification": "primary",
-      "entity_type": "person",
-      "primary": true,
-      "person_id": "~{\"chamber\": \"lower\", \"name\": \"McGinnis\"}",
-      "organization_id": null
-    },
-    {
       "name": "M.M. Smith",
       "classification": "primary",
       "entity_type": "person",
       "primary": true,
       "person_id": "~{\"chamber\": \"lower\", \"name\": \"M.M. Smith\"}",
-      "organization_id": null
-    },
-    {
-      "name": "Haddon",
-      "classification": "primary",
-      "entity_type": "person",
-      "primary": true,
-      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Haddon\"}",
       "organization_id": null
     },
     {
@@ -358,43 +340,11 @@
       "organization_id": null
     },
     {
-      "name": "Teeple",
-      "classification": "primary",
-      "entity_type": "person",
-      "primary": true,
-      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Teeple\"}",
-      "organization_id": null
-    },
-    {
-      "name": "Forrest",
-      "classification": "primary",
-      "entity_type": "person",
-      "primary": true,
-      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Forrest\"}",
-      "organization_id": null
-    },
-    {
-      "name": "Willis",
-      "classification": "primary",
-      "entity_type": "person",
-      "primary": true,
-      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Willis\"}",
-      "organization_id": null
-    },
-    {
       "name": "Rankin",
       "classification": "primary",
       "entity_type": "person",
       "primary": true,
       "person_id": "~{\"chamber\": \"lower\", \"name\": \"Rankin\"}",
-      "organization_id": null
-    },
-    {
-      "name": "Holman",
-      "classification": "primary",
-      "entity_type": "person",
-      "primary": true,
-      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Holman\"}",
       "organization_id": null
     },
     {
@@ -411,14 +361,6 @@
       "entity_type": "person",
       "primary": true,
       "person_id": "~{\"chamber\": \"lower\", \"name\": \"Gibson\"}",
-      "organization_id": null
-    },
-    {
-      "name": "Brittain",
-      "classification": "primary",
-      "entity_type": "person",
-      "primary": true,
-      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Brittain\"}",
       "organization_id": null
     },
     {
@@ -446,22 +388,6 @@
       "organization_id": null
     },
     {
-      "name": "Bustos",
-      "classification": "primary",
-      "entity_type": "person",
-      "primary": true,
-      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Bustos\"}",
-      "organization_id": null
-    },
-    {
-      "name": "Hixon",
-      "classification": "primary",
-      "entity_type": "person",
-      "primary": true,
-      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Hixon\"}",
-      "organization_id": null
-    },
-    {
       "name": "Hart",
       "classification": "primary",
       "entity_type": "person",
@@ -470,91 +396,11 @@
       "organization_id": null
     },
     {
-      "name": "Oremus",
-      "classification": "primary",
-      "entity_type": "person",
-      "primary": true,
-      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Oremus\"}",
-      "organization_id": null
-    },
-    {
-      "name": "T. Moore",
-      "classification": "primary",
-      "entity_type": "person",
-      "primary": true,
-      "person_id": "~{\"chamber\": \"lower\", \"name\": \"T. Moore\"}",
-      "organization_id": null
-    },
-    {
-      "name": "Montgomery",
-      "classification": "primary",
-      "entity_type": "person",
-      "primary": true,
-      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Montgomery\"}",
-      "organization_id": null
-    },
-    {
-      "name": "Hardee",
-      "classification": "primary",
-      "entity_type": "person",
-      "primary": true,
-      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Hardee\"}",
-      "organization_id": null
-    },
-    {
       "name": "Wickensimer",
       "classification": "primary",
       "entity_type": "person",
       "primary": true,
       "person_id": "~{\"chamber\": \"lower\", \"name\": \"Wickensimer\"}",
-      "organization_id": null
-    },
-    {
-      "name": "Beach",
-      "classification": "primary",
-      "entity_type": "person",
-      "primary": true,
-      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Beach\"}",
-      "organization_id": null
-    },
-    {
-      "name": "White",
-      "classification": "primary",
-      "entity_type": "person",
-      "primary": true,
-      "person_id": "~{\"chamber\": \"lower\", \"name\": \"White\"}",
-      "organization_id": null
-    },
-    {
-      "name": "Erickson",
-      "classification": "primary",
-      "entity_type": "person",
-      "primary": true,
-      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Erickson\"}",
-      "organization_id": null
-    },
-    {
-      "name": "Bradley",
-      "classification": "primary",
-      "entity_type": "person",
-      "primary": true,
-      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Bradley\"}",
-      "organization_id": null
-    },
-    {
-      "name": "Mitchell",
-      "classification": "primary",
-      "entity_type": "person",
-      "primary": true,
-      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Mitchell\"}",
-      "organization_id": null
-    },
-    {
-      "name": "Hartz",
-      "classification": "primary",
-      "entity_type": "person",
-      "primary": true,
-      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Hartz\"}",
       "organization_id": null
     },
     {
@@ -574,14 +420,6 @@
       "organization_id": null
     },
     {
-      "name": "Whitmire",
-      "classification": "primary",
-      "entity_type": "person",
-      "primary": true,
-      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Whitmire\"}",
-      "organization_id": null
-    },
-    {
       "name": "Burns",
       "classification": "primary",
       "entity_type": "person",
@@ -590,51 +428,11 @@
       "organization_id": null
     },
     {
-      "name": "Terribile",
+      "name": "Teeple",
       "classification": "primary",
       "entity_type": "person",
       "primary": true,
-      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Terribile\"}",
-      "organization_id": null
-    },
-    {
-      "name": "Ligon",
-      "classification": "primary",
-      "entity_type": "person",
-      "primary": true,
-      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Ligon\"}",
-      "organization_id": null
-    },
-    {
-      "name": "Duncan",
-      "classification": "primary",
-      "entity_type": "person",
-      "primary": true,
-      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Duncan\"}",
-      "organization_id": null
-    },
-    {
-      "name": "Schuessler",
-      "classification": "primary",
-      "entity_type": "person",
-      "primary": true,
-      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Schuessler\"}",
-      "organization_id": null
-    },
-    {
-      "name": "Wooten",
-      "classification": "primary",
-      "entity_type": "person",
-      "primary": true,
-      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Wooten\"}",
-      "organization_id": null
-    },
-    {
-      "name": "J.E. Johnson",
-      "classification": "primary",
-      "entity_type": "person",
-      "primary": true,
-      "person_id": "~{\"chamber\": \"lower\", \"name\": \"J.E. Johnson\"}",
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Teeple\"}",
       "organization_id": null
     }
   ],
@@ -694,6 +492,6 @@
     "division_id": "ocd-division/country:us/state:sc"
   },
   "_processing": {
-    "logs_latest_update": "2025-11-27T08:44:07Z"
+    "logs_latest_update": "2026-07-14T13:06:44Z"
   }
 }

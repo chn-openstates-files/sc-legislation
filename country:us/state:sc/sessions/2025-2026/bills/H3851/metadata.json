@@ -14,7 +14,11 @@
     }
   ],
   "other_titles": [],
-  "other_identifiers": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-sc-2025_2026-h3851"
+    }
+  ],
   "actions": [
     {
       "description": "Introduced and read first time",
@@ -40,6 +44,30 @@
       "_processing": {
         "log_file_created": "2025-11-27T08:44:09Z"
       }
+    },
+    {
+      "description": "Committee report: Favorable Education and Public Works",
+      "date": "2026-05-05",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage-favorable"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:06:44Z"
+      }
+    },
+    {
+      "description": "Recommitted to Committee on Education and Public Works",
+      "date": "2026-05-06",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:06:44Z"
+      }
     }
   ],
   "sponsorships": [
@@ -59,6 +87,17 @@
       "links": [
         {
           "url": "https://www.scstatehouse.gov/sess126_2025-2026/prever/3851_20250130.htm",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "05/05/2026",
+      "links": [
+        {
+          "url": "https://www.scstatehouse.gov/sess126_2025-2026/prever/3851_20260505.htm",
           "media_type": "text/html"
         }
       ],
@@ -97,6 +136,6 @@
     "division_id": "ocd-division/country:us/state:sc"
   },
   "_processing": {
-    "logs_latest_update": "2025-11-27T08:44:09Z"
+    "logs_latest_update": "2026-07-14T13:06:44Z"
   }
 }
